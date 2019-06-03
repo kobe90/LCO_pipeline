@@ -1,0 +1,15 @@
+APERTURE    FILTERS     EXPOSURE
+2m0   i        120
+1m0   r        120
+
+1m0   griz      30
+1m0   griz      60
+1m0   griz      120
+
+1m0   griz      60
+1m0   griz      120
+
+1m0   ri        60
+1m0   ri        120
+
+2m0   ri        120    

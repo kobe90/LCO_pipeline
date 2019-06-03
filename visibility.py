@@ -16,7 +16,7 @@ from LCO import *
 import dill
 
 #locating radio maps for extinction
-map_location='.'
+map_location=os.environ['HOME']
 m = sfdmap.SFDMap(map_location+'/sfddata-master/')
 
 #defining the "Observatory" class

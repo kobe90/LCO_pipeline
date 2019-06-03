@@ -8,7 +8,7 @@ import os
 from LCO import *
 
 #example of "sfddata-master" folder located in the home directory
-map_location='.'
+map_location=os.environ['HOME']
 m = sfdmap.SFDMap(map_location+'/sfddata-master/')
 
 class Coordinates:
